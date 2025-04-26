@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "photo_GP.png"
   name             : "Giuseppe Pontillo, MD, PhD"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Academic neuroradiologist"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Amsterdam UMC"
   uri              : # URL
   email            : "giuseppe.pon@gmail.com" 
 
