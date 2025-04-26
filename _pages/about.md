@@ -20,7 +20,9 @@ Skills
 GitHub repositories
 ------
 **Number 1**
+
 ...
 
 **Number 2**
+
 ...
